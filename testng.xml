@@ -29,5 +29,4 @@
 			<class name="tests.TestGmail" />
 		</classes>
 	</test>
-	
 </suite>
