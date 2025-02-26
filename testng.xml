@@ -1,0 +1,33 @@
+<suite name="Suite" parallel="tests" thread-count="4">
+	<listeners>
+		<listener class-name="utilities.SuiteListener" />
+		<listener class-name="utilities.MyListener" />
+	</listeners>
+	<test name="Test Google with Chrome">
+		<parameter name="scenario" value="Scenario1" />
+		<classes>
+			<class name="tests.TestGoogle" />
+		</classes>
+	</test>
+ 
+	<test name="Test Gmail with Chrome">
+		<parameter name="scenario" value="Scenario2" />
+		<classes>
+			<class name="tests.TestGmail" />
+		</classes>
+	</test>
+	<test name="Test Google with Edge">
+		<parameter name="scenario" value="Scenario3" />
+		<classes>
+			<class name="tests.TestGoogle" />
+		</classes>
+	</test>
+ 
+	<test name="Test Gmail with FireFox">
+		<parameter name="scenario" value="Scenario4" />
+		<classes>
+			<class name="tests.TestGmail" />
+		</classes>
+	</test>
+	
+</suite>

@@ -1,0 +1,152 @@
+[INFO ] 2025-02-26 14:45:03.047 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 14:45:03.092 [TestNG-tests-2] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 14:45:16.162 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 14:45:16.273 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 14:45:16.985 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 14:45:19.702 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 14:45:30.288 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 14:49:37.500 [TestNG-tests-1] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 14:49:53.722 [TestNG-tests-1] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 14:50:05.957 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 14:50:55.582 [TestNG-tests-2] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 14:51:08.196 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 14:51:08.251 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 14:51:17.861 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 14:51:32.692 [TestNG-tests-2] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 14:51:32.901 [TestNG-tests-1] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 14:51:45.704 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 14:51:45.772 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 14:51:47.191 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 14:51:50.454 [TestNG-tests-1] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 14:52:02.680 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 14:58:51.823 [TestNG-tests-2] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 14:59:04.688 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 14:59:04.731 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 14:59:06.474 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:02:05.845 [TestNG-tests-2] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 15:02:18.041 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:02:18.092 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:02:20.535 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:02:50.615 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:02:55.036 [TestNG-tests-2] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 15:03:06.207 [TestNG-tests-1] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 15:03:06.708 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:03:06.755 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:03:08.595 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:03:16.686 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:10:48.243 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:10:48.719 [TestNG-tests-2] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:10:58.866 [TestNG-tests-4] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 15:11:02.685 [TestNG-tests-3] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 15:11:07.693 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 15:11:14.111 [TestNG-tests-4] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:11:14.164 [TestNG-tests-4] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:11:15.102 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:11:15.211 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:11:17.487 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:11:18.622 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:11:18.752 [TestNG-tests-4] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:11:19.596 [TestNG-tests-3] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 15:11:30.736 [TestNG-tests-3] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:16:49.031 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:16:49.031 [TestNG-tests-2] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:16:58.747 [TestNG-tests-3] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 15:16:59.476 [TestNG-tests-4] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 15:17:07.148 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 15:17:12.025 [TestNG-tests-4] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:17:12.079 [TestNG-tests-4] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:17:12.903 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:17:12.997 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:17:14.508 [TestNG-tests-4] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:17:14.610 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:17:15.856 [TestNG-tests-3] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 15:17:19.268 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:17:26.951 [TestNG-tests-3] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:20:59.638 [TestNG-tests-2] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:20:59.719 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:21:11.842 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:21:11.927 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:21:13.613 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:21:14.029 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 15:21:24.569 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:27:18.658 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:27:22.317 [TestNG-tests-2] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 15:27:34.351 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:27:34.418 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:27:35.618 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 15:27:35.725 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:27:46.191 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:34:31.274 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:34:31.275 [TestNG-tests-2] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:34:43.678 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:34:43.761 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:34:44.456 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:34:46.963 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 15:34:57.429 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:42:00.366 [TestNG-tests-1] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:42:00.976 [TestNG-tests-2] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:42:11.445 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:42:11.529 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:42:12.193 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:42:15.658 [TestNG-tests-1] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 15:42:26.198 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:43:00.968 [TestNG-tests-2] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:43:01.425 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:43:11.290 [TestNG-tests-4] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:43:12.204 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:43:12.254 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:43:16.168 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 15:43:17.255 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:43:24.339 [TestNG-tests-4] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:43:24.400 [TestNG-tests-4] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:43:26.126 [TestNG-tests-4] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:43:26.874 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:44:04.893 [TestNG-tests-3] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:44:18.849 [TestNG-tests-3] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 15:44:30.337 [TestNG-tests-3] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:45:11.205 [TestNG-tests-2] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:45:11.208 [TestNG-tests-1] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:45:13.594 [TestNG-tests-4] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:45:19.384 [TestNG-tests-3] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:46:28.992 [TestNG-tests-2] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:46:29.045 [TestNG-tests-1] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:46:29.385 [TestNG-tests-4] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:46:34.061 [TestNG-tests-3] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:46:46.370 [TestNG-tests-4] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:46:46.449 [TestNG-tests-4] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:46:46.537 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:46:46.616 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:46:46.682 [TestNG-tests-1] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 15:46:48.691 [TestNG-tests-3] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 15:46:50.363 [TestNG-tests-4] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:46:50.702 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:46:57.610 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:47:00.200 [TestNG-tests-3] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:56:21.135 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:56:21.174 [TestNG-tests-2] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 15:56:21.175 [TestNG-tests-3] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 15:56:30.274 [TestNG-tests-4] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 15:56:35.583 [TestNG-tests-3] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 15:56:36.679 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 15:56:42.161 [TestNG-tests-4] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:56:42.216 [TestNG-tests-4] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:56:44.876 [TestNG-tests-4] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:56:45.796 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 15:56:45.856 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 15:56:46.825 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:56:47.005 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 15:56:47.989 [TestNG-tests-3] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 16:07:22.454 [TestNG-tests-2] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 16:07:22.454 [TestNG-tests-1] BaseTest - Browser opened: chrome
+[INFO ] 2025-02-26 16:07:23.513 [TestNG-tests-3] BaseTest - Browser opened: edge
+[INFO ] 2025-02-26 16:07:31.475 [TestNG-tests-4] BaseTest - Browser opened: firefox
+[INFO ] 2025-02-26 16:07:38.644 [TestNG-tests-3] TestGoogle - Entered Search Value: Apple
+[INFO ] 2025-02-26 16:07:39.900 [TestNG-tests-1] TestGoogle - Entered Search Value: Google
+[INFO ] 2025-02-26 16:07:42.448 [TestNG-tests-4] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 16:07:42.514 [TestNG-tests-4] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 16:07:43.709 [TestNG-tests-2] TestGmail - Opened Gmail Page!!!
+[INFO ] 2025-02-26 16:07:43.777 [TestNG-tests-2] TestGmail - Actual Page name: Gmail Expected Page name: Google
+[INFO ] 2025-02-26 16:07:44.636 [TestNG-tests-4] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 16:07:44.887 [TestNG-tests-2] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 16:07:50.370 [TestNG-tests-1] BaseTest - Browser has been closed
+[INFO ] 2025-02-26 16:07:50.422 [TestNG-tests-3] BaseTest - Browser has been closed
