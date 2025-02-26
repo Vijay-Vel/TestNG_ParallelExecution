@@ -9,7 +9,6 @@
 			<class name="tests.TestGoogle" />
 		</classes>
 	</test>
- 
 	<test name="Test Gmail with Chrome">
 		<parameter name="scenario" value="Scenario2" />
 		<classes>
@@ -22,7 +21,6 @@
 			<class name="tests.TestGoogle" />
 		</classes>
 	</test>
- 
 	<test name="Test Gmail with FireFox">
 		<parameter name="scenario" value="Scenario4" />
 		<classes>
